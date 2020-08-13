@@ -1,0 +1,17 @@
+html, body {
+    overflow: hidden;
+}
+
+body {
+    background-color: rgba(76, 76, 76, 1.0);
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+canvas {
+    display: block;
+    margin: 0 auto;
+}
